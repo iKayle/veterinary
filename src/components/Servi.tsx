@@ -24,11 +24,11 @@ export function Servi() {
         <div className="flex flex-col items-center text-3xl tracking-wider">
           <p>
             Aqui seu animal de estimação tem atendimento médico veterinário
-            <span className="text-green-700">completo</span>,
+            <span className="text-green-700"> completo</span>,
           </p>
           <p>
             para que sua <span className="text-green-700">saúde</span> seja
-            tratada com total zelo e{" "}
+            tratada com total zelo e&nbsp;
             <span className="text-green-700">compromisso</span>.
           </p>
         </div>
@@ -40,8 +40,8 @@ export function Servi() {
             <FaPaw className="text-4xl text-primary-600" />
           </div>
           <p className="text-3xl font-bold ">
-            Confira as nossas{" "}
-            <span className="text-green-700">especialidades </span> e veja que
+            Confira as nossas
+            <span className="text-green-700"> especialidades </span> e veja que
             podemos fazer pelo seu Pet hoje
           </p>
         </div>
