@@ -1,0 +1,20 @@
+* {
+  scroll-behavior: smooth;
+}
+.bg1 {
+  background-image: url("/dogecat.jpg");
+  background-repeat: no-repeat;
+  background-size: 200vh;
+  background-position: 0vh;
+  opacity: 85%;
+  height: 85vh;
+}
+
+.fontst {
+  font-family: "Amatic SC", cursive;
+}
+
+.img2 {
+  height: 200px;
+  width: 300px;
+}
