@@ -1,5 +1,5 @@
-import { icons } from "react-icons";
 import { FaPaw } from "react-icons/fa";
+
 export function Team() {
   return (
     <div id="equipe" className="mx-auto bg-gray-200 font-amatic">
